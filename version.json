@@ -1,0 +1,5 @@
+{
+  "version": "1.0.2",
+  "changelog": "v1.0.2 - Cập nhật ngày 11/03/2026\n- Sửa lỗi chức năng nhập/xuất dữ liệu (Import/Export)\n- Sửa key mapping không đúng giữa dialog và profile manager\n- Sửa auto-detect UID khi import\n- Cải thiện ổn định chung",
+  "download_url": "https://github.com/tienthanhaudio1-art/FacebookTihaDealer-update/releases/download/v1.0.2/FacebookTihaDealer_v1.0.2.zip"
+}
