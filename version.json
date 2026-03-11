@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
-  "changelog": "v1.0.2\n- Fix đăng nhập tự động + headless\n- Fix Import/Export dark theme\n- Delta patch update\n- Cải thiện ổn định chung",
-  "download_url": "https://github.com/tienthanhaudio1-art/FacebookTihaDealer-update/releases/download/v1.0.2/patch_v1.0.2.zip"
+  "version": "1.0.3",
+  "download_url": "https://github.com/tienthanhaudio1-art/FacebookTihaDealer-update/releases/download/v1.0.3/patch_v1.0.3.zip",
+  "changelog": "v1.0.3: Tab Gmail Manager, 2FA, Recovery Email, Fix Browser (62 KB)"
 }
