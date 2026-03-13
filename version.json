@@ -1,6 +1,6 @@
 {
   "version": "1.0.7",
-  "sha256": "2ec3e23884ed2dbf009dc7826ff9c529c550a521e640e88ce1daad38edf01d78",
+  "sha256": "0c6d1df94ae8989e3ba4b763300665028f19b517591f91744ae1799e0017998d",
   "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.0.7.zip",
   "changelog": "v1.0.7: Fix mau hien thi theo cot Live, fix Edit Profile cookie, toi uu toc do login.",
   "min_version": "1.0.0"
