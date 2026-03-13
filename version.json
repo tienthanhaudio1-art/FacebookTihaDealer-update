@@ -1,7 +1,7 @@
 {
-  "version": "1.0.9",
-  "sha256": "6dd0861325b58e18821a898ea7e9c1d30884f571fbc4c500f38bf44546108f0e",
-  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.0.9.zip",
-  "changelog": "v1.0.9: Fix update checker bypass CDN cache, toi uu toc do login, mau hien thi 3 mau.",
+  "version": "1.1.0",
+  "sha256": "7b14bbc64cd80461b6a9a7d3674da40efd1d471d2797d29693c9792b7f71c73c",
+  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.1.0.zip",
+  "changelog": "v1.1.0: Fix 2FA login bi bo qua, fix navigation wait sau submit, fix update checker bypass CDN cache.",
   "min_version": "1.0.0"
 }
