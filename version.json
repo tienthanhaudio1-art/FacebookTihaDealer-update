@@ -1,7 +1,7 @@
 {
-  "version": "1.1.9",
-  "sha256": "b81f6ce6311f1fa1a34ec6cc189483eefe2e15a888756bcebe4a3cd8e453a33b",
-  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.1.9.zip",
-  "changelog": "v1.1.9: Implement all Change Via actions (Check Language, Phone/Email, Change Pass API, 2FA, Add Email, Remove IG, Change All, Reg Meta)",
+  "version": "1.2.0",
+  "sha256": "69c591cae6e464fec4c265d29d45e195901a253f57e9c65a98faa86f5c8469d2",
+  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.2.0.zip",
+  "changelog": "v1.2.0: Add Get Token (EAAB), upgrade Change Via UI with emoji icons, remove duplicate SIM config",
   "min_version": "1.0.0"
 }
