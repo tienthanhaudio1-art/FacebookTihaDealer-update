@@ -1,7 +1,7 @@
 {
-  "version": "1.1.8",
-  "sha256": "3baeb23c0058bd0b373ff6d1d353543bf64666fc5a627801fecfbf25014e3894",
-  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.1.8.zip",
-  "changelog": "v1.1.8: Fix loop-back UID/Pass khi 2FA, captcha solver trong 2FA, 2FA check truoc checkpoint.",
+  "version": "1.1.9",
+  "sha256": "b81f6ce6311f1fa1a34ec6cc189483eefe2e15a888756bcebe4a3cd8e453a33b",
+  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.1.9.zip",
+  "changelog": "v1.1.9: Implement all Change Via actions (Check Language, Phone/Email, Change Pass API, 2FA, Add Email, Remove IG, Change All, Reg Meta)",
   "min_version": "1.0.0"
 }
