@@ -1,7 +1,7 @@
 {
-  "version": "1.2.1",
-  "sha256": "6d603c61c2443ecfb7ae1889b6b0d03d7ac457ae29a3b58d349668119523ede6",
-  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.2.1.zip",
-  "changelog": "v1.2.1: Rebuild Change Via UI to match reference tool - full settings, temp mail domains, sub-tabs, 6-column input",
+  "version": "1.2.2",
+  "sha256": "e81e64dddb776d513fb0e24ada56d6574d7af2211abc6d156eab6fa5ec20d182",
+  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.2.2.zip",
+  "changelog": "v1.2.2: Full Get TOKEN system - 10 token types (EAAB, EAAG, EAAAU, EAAI, EAAD, EAABw, EAAK, Business, Auto, ALL), multi-source extraction from 7 FB pages",
   "min_version": "1.0.0"
 }
