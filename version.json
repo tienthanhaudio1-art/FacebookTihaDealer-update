@@ -1,6 +1,6 @@
 {
   "version": "1.1.7",
-  "sha256": "0577cb6c1dd7d999633f83e8fbc533870afc23cd984b0cdfd3aeae5ca8fd67c8",
+  "sha256": "e894400e3243a4086833699cbb7cd684d0902bb514f19e60c3f3a1370f3bc3b7",
   "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.1.7.zip",
   "changelog": "v1.1.7: Fix update URL missing, auto-fallback GitHub URL, fix chrome dong giua 2FA, tang 2FA wait.",
   "min_version": "1.0.0"
