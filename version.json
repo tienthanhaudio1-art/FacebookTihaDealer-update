@@ -1,7 +1,7 @@
 {
-  "version": "1.0.8",
-  "sha256": "62f5bb6d74579a89cc3f3bb256091ada291032d975544a115aa1d03ad6a950b8",
-  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.0.8.zip",
-  "changelog": "v1.0.8: Toi uu toc do login, fix mau hien thi 3 mau (xanh/vang/do), dong bo trang thai Live.",
+  "version": "1.0.9",
+  "sha256": "6dd0861325b58e18821a898ea7e9c1d30884f571fbc4c500f38bf44546108f0e",
+  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.0.9.zip",
+  "changelog": "v1.0.9: Fix update checker bypass CDN cache, toi uu toc do login, mau hien thi 3 mau.",
   "min_version": "1.0.0"
 }
