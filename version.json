@@ -1,7 +1,7 @@
 {
-  "version": "1.1.1",
-  "sha256": "417e6d4244424a0b8e7ed3a147a7e6736081824bb027c72cde3b242ed5d27111",
-  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.1.1.zip",
-  "changelog": "v1.1.1: Fix 2FA bi bo qua khi browser mo truc tiep trang 2FA, fix navigation wait, fix checkpoint detection.",
+  "version": "1.1.2",
+  "sha256": "a3d0edd4d64114e0b40ef869b92a2ff63d79a5818db2363a76725a5e7c010371",
+  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.1.2.zip",
+  "changelog": "v1.1.2: Fix 2FA URL pattern /two_step_verification/ detection, fix Het phien for 2FA pages.",
   "min_version": "1.0.0"
 }
