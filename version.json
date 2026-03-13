@@ -1,7 +1,7 @@
 {
-  "version": "1.1.5",
-  "sha256": "1abbaac14ff933996d764ddbb7aa6819d167ef03b1d38f92062b5dd21083d482",
-  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.1.5.zip",
-  "changelog": "v1.1.5: Fix update khong restart, tu dong phat hien update chua ap dung, fix 2FA login.",
+  "version": "1.1.6",
+  "sha256": "d3a30b5bb4c2015ff2242f96bd45b686189f9c1b8f0d010dbcec286716dc6196",
+  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.1.6.zip",
+  "changelog": "v1.1.6: Fix chrome tu dong dong khi dang giai 2FA, tang thoi gian cho 2FA, fix finally block.",
   "min_version": "1.0.0"
 }
