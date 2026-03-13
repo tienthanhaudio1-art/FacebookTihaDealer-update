@@ -1,7 +1,7 @@
 {
   "version": "1.1.2",
-  "sha256": "a3d0edd4d64114e0b40ef869b92a2ff63d79a5818db2363a76725a5e7c010371",
+  "sha256": "a276b33c143091fc3cb111eaa26da33d4f0d72ba1841684b5ef659952682a701",
   "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.1.2.zip",
-  "changelog": "v1.1.2: Fix 2FA URL pattern /two_step_verification/ detection, fix Het phien for 2FA pages.",
+  "changelog": "v1.1.2: Fix 2FA URL two_step_verification, fix chrome auto-close, them tat WebRTC.",
   "min_version": "1.0.0"
 }
