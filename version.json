@@ -1,7 +1,7 @@
 {
-  "version": "1.0.6",
-  "sha256": "a72f66d8311180615535fbc405ca8d41e34fcaba895ad4835eade4c3f563092d",
-  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.0.6.zip",
-  "changelog": "v1.0.6: Nang cap giao dien lien he, tab gradient, them Zalo.",
+  "version": "1.0.7",
+  "sha256": "2ec3e23884ed2dbf009dc7826ff9c529c550a521e640e88ce1daad38edf01d78",
+  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.0.7.zip",
+  "changelog": "v1.0.7: Fix mau hien thi theo cot Live, fix Edit Profile cookie, toi uu toc do login.",
   "min_version": "1.0.0"
 }
