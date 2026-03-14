@@ -1,6 +1,6 @@
 {
   "version": "1.2.5",
-  "sha256": "cad158f0e591e859ef45cd255278bdfe36c0479da3de6eebcead52ab6f366d96",
+  "sha256": "026a8aea06ef88a11700f212843cb389771ddef1be7db7b9269b5db0998f1771",
   "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.2.5.zip",
   "changelog": "v1.2.5: Fix login 2FA — không còn báo 'hạn chế' khi Facebook phát hiện captcha bot, tự động retry captcha + nhập lại mã 2FA, tăng thời gian chờ. Fix updater loop. Tích hợp 3 temp mail (foxycrown.net, smvmail.com, fviainboxes.com). Fix xác minh email Facebook bằng Playwright browser.",
   "min_version": "1.0.0"
