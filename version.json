@@ -1,6 +1,6 @@
 {
   "version": "1.2.4",
-  "sha256": "6fc04784e847f9bbe78afe1dcd0469006f46a43bbf72ce4ce6d595efa25feb55",
+  "sha256": "ed330df881eb0de011d769ac5ee4a9adb6f62f442604e17eb9d5d435b063e3ed",
   "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.2.4.zip",
   "changelog": "v1.2.4: Tích hợp 3 temp mail provider (foxycrown.net, smvmail.com, fviainboxes.com) — auto API đọc inbox lấy code. Fix xác minh email Facebook — dùng Playwright browser nhập code trực tiếp. Fix regex lấy mã 5 chữ số. Fix updater loop khi cùng version. Tab Change Via: bỏ phần cũ không cần thiết, cải thiện thuật toán add email + xác minh tự động.",
   "min_version": "1.0.0"
