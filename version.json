@@ -1,7 +1,7 @@
 {
-  "version": "1.2.2",
-  "sha256": "e81e64dddb776d513fb0e24ada56d6574d7af2211abc6d156eab6fa5ec20d182",
-  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.2.2.zip",
-  "changelog": "v1.2.2: Full Get TOKEN system - 10 token types (EAAB, EAAG, EAAAU, EAAI, EAAD, EAABw, EAAK, Business, Auto, ALL), multi-source extraction from 7 FB pages",
+  "version": "1.2.3",
+  "sha256": "7a218879aac32d008be96a73279aeffc54713b1f8ef9684dad60bc20ea3fec3c",
+  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.2.3.zip",
+  "changelog": "v1.2.3: Tối ưu browser - Mở nhanh hơn (5 Chrome speed flags), delay 200ms giữa các browser, đồng bộ chrome_scale=0.25 (4 tab/hàng). Nâng cấp Đóng browser (graceful 4-step close), Set/Get Cookie hoạt động khi browser đã đóng (headless fallback). Check cookie/token phát hiện chính xác Checkpoint/Dead. Check thông tin full ổn định hơn.",
   "min_version": "1.0.0"
 }
