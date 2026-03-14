@@ -1,7 +1,7 @@
 {
-  "version": "1.2.7",
-  "sha256": "92e7d049d2dc9ab7188b5b3c535a74b5de85d55a22b7329faadb5dbcc0636ed2",
-  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.2.7.zip",
-  "changelog": "v1.2.7: Fix login 2FA hoàn chỉnh — re-check page sau captcha, retry nếu bị redirect, debug logging chi tiết. Fix updater fallback. Fix patch cũ thiếu file mới.",
+  "version": "1.2.8",
+  "sha256": "6ef1d31ae973057590f61a8f61d79b4d5af42bdc51a5d01f1c30c56f6c020413",
+  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.2.8.zip",
+  "changelog": "v1.2.8: Fix captcha trên 2FA — không còn nhấn Submit sau giải captcha (gây redirect về login). Captcha chỉ giải + inject token, sau đó nhập mã 2FA mới submit.",
   "min_version": "1.0.0"
 }
