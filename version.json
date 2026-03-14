@@ -1,6 +1,6 @@
 {
   "version": "1.2.6",
-  "sha256": "0121adddda8e7b6c878043437cb7709b9105097dda6148c8ebbe73ec0e5a85e5",
+  "sha256": "ac1a0cedd662645e08e080cb8dfe2ff615f125e574e48d1530e5bec3c15eeb1a",
   "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.2.6.zip",
   "changelog": "v1.2.6: Fix login 2FA — sau captcha re-check trang, tự động retry nếu bị redirect. Tăng thời gian chờ xử lý. Fix updater. Tích hợp 3 temp mail. Fix xác minh email Facebook.",
   "min_version": "1.0.0"
