@@ -1,7 +1,7 @@
 {
-  "version": "1.2.3",
-  "sha256": "7a218879aac32d008be96a73279aeffc54713b1f8ef9684dad60bc20ea3fec3c",
-  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.2.3.zip",
-  "changelog": "v1.2.3: Tối ưu browser - Mở nhanh hơn (5 Chrome speed flags), delay 200ms giữa các browser, đồng bộ chrome_scale=0.25 (4 tab/hàng). Nâng cấp Đóng browser (graceful 4-step close), Set/Get Cookie hoạt động khi browser đã đóng (headless fallback). Check cookie/token phát hiện chính xác Checkpoint/Dead. Check thông tin full ổn định hơn.",
+  "version": "1.2.4",
+  "sha256": "6fc04784e847f9bbe78afe1dcd0469006f46a43bbf72ce4ce6d595efa25feb55",
+  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.2.4.zip",
+  "changelog": "v1.2.4: Tích hợp 3 temp mail provider (foxycrown.net, smvmail.com, fviainboxes.com) — auto API đọc inbox lấy code. Fix xác minh email Facebook — dùng Playwright browser nhập code trực tiếp. Fix regex lấy mã 5 chữ số. Fix updater loop khi cùng version. Tab Change Via: bỏ phần cũ không cần thiết, cải thiện thuật toán add email + xác minh tự động.",
   "min_version": "1.0.0"
 }
