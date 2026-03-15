@@ -1,7 +1,7 @@
 {
-  "version": "1.3.0",
-  "sha256": "110023d73983ec849537d5166c748849e2d30fe434d6932a1d3369d879eb68cd",
-  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.3.0.zip",
-  "changelog": "v1.3.0: Fix trang chọn phương thức 2FA — tự chọn 'Ứng dụng xác thực' radio + nhấn 'Tiếp tục'. Chờ ô nhập code hiện ra. Fix tất cả lỗi login 2FA trước đó.",
+  "version": "1.3.1",
+  "sha256": "dde57fb4a9781b682c329140f31b22a947466f92d7a1d973915c5ebbf9d7705f",
+  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.3.1.zip",
+  "changelog": "v1.3.1: Fix lỗi login hiển thị DEBUG cho khách — xoá toàn bộ log [DEBUG] khỏi giao diện. Thêm Add Mail Trực Tiếp cho CC1.",
   "min_version": "1.0.0"
 }
