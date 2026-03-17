@@ -1,6 +1,6 @@
 {
   "version": "1.3.4",
-  "sha256": "284e45fb64bb86cdd0787d931849feb4b55dda920fb5af6b64408e8ec3abd333",
+  "sha256": "7c177b33ed2e055e5712888867ade3e6999e8289b0582f4a5e08cc9f4b616d15",
   "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.3.4.zip",
   "changelog": "v1.3.4: Fix quét & xóa bài — quét không dừng sớm cho đến khi đến ngày chọn, xóa tối đa 250 bài/lượt với retry tự động.",
   "min_version": "1.0.0"
