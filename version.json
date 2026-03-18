@@ -1,7 +1,7 @@
 {
-  "version": "1.5.6",
-  "sha256": "0a10d794c46fad1e0b481d4db12613b053fffbaae82afe74914ba18cb8dbe7fe",
-  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.5.6.zip",
-  "changelog": "v1.5.6: Fix sai mật khẩu dừng ngay + Fix Open Profile tự tắt Chrome + Captcha racing 2Captcha+OmoCaptcha",
+  "version": "1.5.7",
+  "sha256": "a91cccde07f2a2091e8bc19a7a3f6420be0bb6800a5f4af7ecfa6408f71a4578",
+  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.5.7.zip",
+  "changelog": "v1.5.7: Hỗ trợ giải FunCaptcha Facebook (chọn ảnh) qua OmoCaptcha + reCAPTCHA 2Captcha racing",
   "min_version": "1.0.0"
 }
