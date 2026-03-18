@@ -1,7 +1,7 @@
 {
-  "version": "1.4.0",
-  "sha256": "600b597fd3d784efe552a1ad540127fd6a84a7bde9ce45caeb28dca203eb5e66",
-  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.4.0.zip",
-  "changelog": "v1.4.0: Thêm hỗ trợ Google Authenticator trên trang chọn phương thức đăng nhập — tự chọn Authenticator app và nhập mã 2FA.",
+  "version": "1.4.1",
+  "sha256": "6625e2db1fb68b75cf700a58cfd697e6d41748a6727ef2ea68856df426ee17c1",
+  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.4.1.zip",
+  "changelog": "v1.4.1: Tự kiểm tra session trước khi login — nếu Gmail đã đăng nhập sẵn, tự lưu session và bỏ qua login.",
   "min_version": "1.0.0"
 }
