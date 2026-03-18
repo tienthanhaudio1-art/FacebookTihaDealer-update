@@ -1,7 +1,7 @@
 {
-  "version": "1.4.9",
-  "sha256": "35f75b1cb27e2d1e026373cc2ef074baee262e700fbf20e492bffe181e156b85",
-  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.4.9.zip",
-  "changelog": "v1.4.9: Fix xóa/login/update nhầm tài khoản — Row-to-Record mapping bằng UserRole ID thay vì DB index.",
+  "version": "1.5.0",
+  "sha256": "85c822a2501c3aa196f1053f53a492ec188860f754ff23a8d591a494e23b1a4b",
+  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.5.0.zip",
+  "changelog": "v1.5.0: Fix xóa/login nhầm tài khoản (UserRole ID), fix phone verification lặp vô hạn.",
   "min_version": "1.0.0"
 }
