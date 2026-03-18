@@ -1,7 +1,7 @@
 {
-  "version": "1.4.7",
-  "sha256": "6cce0742eae9ebb4e36d4b36d48d2a30b655f02795e182b8051a3b36808f840a",
-  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.4.7.zip",
-  "changelog": "v1.4.7: Fix cột Live không hiện sau login thành công — thiếu live_status.emit trên path 'không cần password'.",
+  "version": "1.4.8",
+  "sha256": "791782ef18c2daa8ebd39425d2b40fb28f7389cc91d53a56d151bdf7c5acf901",
+  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.4.8.zip",
+  "changelog": "v1.4.8: Tự động lọc Gmail trùng khi nhập dữ liệu + Fix cột Live không hiện sau login.",
   "min_version": "1.0.0"
 }
