@@ -1,7 +1,7 @@
 {
-  "version": "1.4.1",
-  "sha256": "6625e2db1fb68b75cf700a58cfd697e6d41748a6727ef2ea68856df426ee17c1",
-  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.4.1.zip",
-  "changelog": "v1.4.1: Tự kiểm tra session trước khi login — nếu Gmail đã đăng nhập sẵn, tự lưu session và bỏ qua login.",
+  "version": "1.4.2",
+  "sha256": "b2c44bce7b3cddae9ad76b7fbb0ad17aa80e064660373791fe274569d9cfc0e8",
+  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.4.2.zip",
+  "changelog": "v1.4.2: Fix pre-check session + Thêm xử lý 'Verify it's you - Sign in again' tự click Next và tiếp tục login.",
   "min_version": "1.0.0"
 }
