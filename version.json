@@ -1,7 +1,7 @@
 {
-  "version": "1.4.5",
-  "sha256": "2636da005d848f706f9c3a2357dfe73e819a01a8ae5cd0620891ccc6061e5b07",
-  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.4.5.zip",
-  "changelog": "v1.4.5: Fix lỗi nghiêm trọng Click Next chạy sai khi skip email step, gây 'Sai mật khẩu' và kẹt captcha.",
+  "version": "1.4.6",
+  "sha256": "779be508d2d6a9170a73cb910f44b9ad0b3c1c15aba76c6462bd152b01658024",
+  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.4.6.zip",
+  "changelog": "v1.4.6: Fix lỗi nhập SĐT vào ô 2FA — phone handler nhận dạng nhầm trang 2FA thành trang phone verification.",
   "min_version": "1.0.0"
 }
