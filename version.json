@@ -1,7 +1,7 @@
 {
-  "version": "1.5.7",
-  "sha256": "a91cccde07f2a2091e8bc19a7a3f6420be0bb6800a5f4af7ecfa6408f71a4578",
-  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.5.7.zip",
-  "changelog": "v1.5.7: Hỗ trợ giải FunCaptcha Facebook (chọn ảnh) qua OmoCaptcha + reCAPTCHA 2Captcha racing",
+  "version": "1.5.8",
+  "sha256": "443cda3a734209215ba34baf20762dba869d843c6272d232e68e667d53ce5599",
+  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.5.8.zip",
+  "changelog": "v1.5.8: Fix captcha FB - giải ảnh 'Select all images with X' qua OmoCaptcha RecaptchaV2ImageTask ($0.00027/~1s)",
   "min_version": "1.0.0"
 }
