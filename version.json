@@ -1,7 +1,7 @@
 {
-  "version": "1.4.2",
-  "sha256": "b2c44bce7b3cddae9ad76b7fbb0ad17aa80e064660373791fe274569d9cfc0e8",
-  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.4.2.zip",
-  "changelog": "v1.4.2: Fix pre-check session + Thêm xử lý 'Verify it's you - Sign in again' tự click Next và tiếp tục login.",
+  "version": "1.4.3",
+  "sha256": "fd081d019d3df6b4eac4c61cdf3199686d7766be474cef44dbf9feac1186ad77",
+  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.4.3.zip",
+  "changelog": "v1.4.3: Fix lỗi tài khoản login thành công nhưng hiển thị sai trạng thái 'Out/Sai mật khẩu' sau khi batch hoàn tất.",
   "min_version": "1.0.0"
 }
