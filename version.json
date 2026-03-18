@@ -1,7 +1,7 @@
 {
-  "version": "1.3.9",
-  "sha256": "c0188f4bbf774a4202891594687cd7782feef4cf98c6583320c0b61397b5e290",
-  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.3.9.zip",
-  "changelog": "v1.3.9: Fix lỗi import Gmail nhảy sai thư mục — dữ liệu giờ hiển thị đúng danh mục đã chọn.",
+  "version": "1.4.0",
+  "sha256": "600b597fd3d784efe552a1ad540127fd6a84a7bde9ce45caeb28dca203eb5e66",
+  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.4.0.zip",
+  "changelog": "v1.4.0: Thêm hỗ trợ Google Authenticator trên trang chọn phương thức đăng nhập — tự chọn Authenticator app và nhập mã 2FA.",
   "min_version": "1.0.0"
 }
