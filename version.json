@@ -1,7 +1,7 @@
 {
-  "version": "1.4.4",
-  "sha256": "c515597f0c98c8a2fe6bae7fff3ca13ee8bec0d8afa14d9885f0b7963d487b18",
-  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.4.4.zip",
-  "changelog": "v1.4.4: Fix captcha bị kẹt (Restore pages dialog), fix 2FA nhầm nhập SĐT thay TOTP, fix trạng thái ghi đè sai.",
+  "version": "1.4.5",
+  "sha256": "2636da005d848f706f9c3a2357dfe73e819a01a8ae5cd0620891ccc6061e5b07",
+  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.4.5.zip",
+  "changelog": "v1.4.5: Fix lỗi nghiêm trọng Click Next chạy sai khi skip email step, gây 'Sai mật khẩu' và kẹt captcha.",
   "min_version": "1.0.0"
 }
