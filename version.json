@@ -1,7 +1,7 @@
 {
-  "version": "1.5.4",
-  "sha256": "4e6b7073ef51bfc2c6b5704110d2f4b3ad0169857a1a4700a408823b8ca4fbee",
-  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.5.4.zip",
-  "changelog": "v1.5.4: Tích hợp otpcodesms.site vào Phone Settings + Fix bảng dịch vụ không hiển thị tên.",
+  "version": "1.5.5",
+  "sha256": "f37bb1656ce6c0e6c4e437660e20556422b91da930da78a1d58c832c4b7ceb3f",
+  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.5.5.zip",
+  "changelog": "v1.5.5: Tối ưu tốc độ captcha — Racing 2Captcha + OmoCaptcha song song, skip checkbox Google, giảm timeout 120s→60s.",
   "min_version": "1.0.0"
 }
