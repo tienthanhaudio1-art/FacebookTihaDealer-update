@@ -1,7 +1,7 @@
 {
-  "version": "1.4.3",
-  "sha256": "fd081d019d3df6b4eac4c61cdf3199686d7766be474cef44dbf9feac1186ad77",
-  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.4.3.zip",
-  "changelog": "v1.4.3: Fix lỗi tài khoản login thành công nhưng hiển thị sai trạng thái 'Out/Sai mật khẩu' sau khi batch hoàn tất.",
+  "version": "1.4.4",
+  "sha256": "c515597f0c98c8a2fe6bae7fff3ca13ee8bec0d8afa14d9885f0b7963d487b18",
+  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.4.4.zip",
+  "changelog": "v1.4.4: Fix captcha bị kẹt (Restore pages dialog), fix 2FA nhầm nhập SĐT thay TOTP, fix trạng thái ghi đè sai.",
   "min_version": "1.0.0"
 }
