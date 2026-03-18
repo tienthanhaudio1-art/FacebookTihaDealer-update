@@ -1,7 +1,7 @@
 {
-  "version": "1.5.2",
-  "sha256": "59551fb0ba71e77b0ee5a1f4df94624874714c583cc0bc2a59f4dec4949c8754",
-  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.5.2.zip",
-  "changelog": "v1.5.2: Fix Post Cleaner 'Không tìm thấy dropdown năm' — dùng URL date filter thay vì UI dropdown.",
+  "version": "1.5.3",
+  "sha256": "6073f5f66699a157cd97a88e0be404d8ff8fb1aa95a295f8b0c495f4a113f05c",
+  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.5.3.zip",
+  "changelog": "v1.5.3: Fix Post Cleaner xóa bài báo thành công nhưng không xóa thật — detect Facebook 'Thử lại sau' error dialog + retry.",
   "min_version": "1.0.0"
 }
