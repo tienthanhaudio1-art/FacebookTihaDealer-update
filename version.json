@@ -1,7 +1,7 @@
 {
-  "version": "1.5.3",
-  "sha256": "6073f5f66699a157cd97a88e0be404d8ff8fb1aa95a295f8b0c495f4a113f05c",
-  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.5.3.zip",
-  "changelog": "v1.5.3: Fix Post Cleaner xóa bài báo thành công nhưng không xóa thật — detect Facebook 'Thử lại sau' error dialog + retry.",
+  "version": "1.5.4",
+  "sha256": "4e6b7073ef51bfc2c6b5704110d2f4b3ad0169857a1a4700a408823b8ca4fbee",
+  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.5.4.zip",
+  "changelog": "v1.5.4: Tích hợp otpcodesms.site vào Phone Settings + Fix bảng dịch vụ không hiển thị tên.",
   "min_version": "1.0.0"
 }
