@@ -1,7 +1,7 @@
 {
-  "version": "1.5.1",
-  "sha256": "4c5c66d73fd2ff50c1995956a7a42303de4370aa497b7968cc9bf9e32fc29f24",
-  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.5.1.zip",
-  "changelog": "v1.5.1: Export Gmail tùy chỉnh định dạng + chỉ xuất tài khoản đã chọn.",
+  "version": "1.5.2",
+  "sha256": "59551fb0ba71e77b0ee5a1f4df94624874714c583cc0bc2a59f4dec4949c8754",
+  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.5.2.zip",
+  "changelog": "v1.5.2: Fix Post Cleaner 'Không tìm thấy dropdown năm' — dùng URL date filter thay vì UI dropdown.",
   "min_version": "1.0.0"
 }
