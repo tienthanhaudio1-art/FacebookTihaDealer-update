@@ -1,7 +1,7 @@
 {
-  "version": "1.4.6",
-  "sha256": "779be508d2d6a9170a73cb910f44b9ad0b3c1c15aba76c6462bd152b01658024",
-  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.4.6.zip",
-  "changelog": "v1.4.6: Fix lỗi nhập SĐT vào ô 2FA — phone handler nhận dạng nhầm trang 2FA thành trang phone verification.",
+  "version": "1.4.7",
+  "sha256": "6cce0742eae9ebb4e36d4b36d48d2a30b655f02795e182b8051a3b36808f840a",
+  "download_url": "https://raw.githubusercontent.com/tienthanhaudio1-art/FacebookTihaDealer-update/main/releases/patch_v1.4.7.zip",
+  "changelog": "v1.4.7: Fix cột Live không hiện sau login thành công — thiếu live_status.emit trên path 'không cần password'.",
   "min_version": "1.0.0"
 }
